@@ -9,8 +9,8 @@ https://github.com/alhadbhadekar/python-test-migrate-challenge
 Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install Python-Test-Migration-Challenge
 
 ## Command to Install
-```bash
 pip package Link: https://pypi.org/project/Python-Test-Migration-Challenge/1.0.2/
+```bash
 pip install Python-Test-Migration-Challenge
 ```
 
