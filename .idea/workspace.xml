@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa848e86-36dc-4a00-bc7b-46946918000f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MANIFEST.IN" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Test_Migration/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/persistence/make_dill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/persistence/make_dill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/persistence/un_dill.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/persistence/un_dill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/service/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/test/Provider/test_python_test_migration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/test/Provider/test_python_test_migration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/test/service/test_app_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/test/service/test_app_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/tier_one" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/tier_one" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/tier_one/tier_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/tier_one/tier_one.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
