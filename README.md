@@ -15,7 +15,7 @@ pip install Python-Test-Migration-Challenge
 
 ## Project Structure
 <pre>
-Root level package\
+Python_Test_Migration (Root folder)\
 Provider\
 |__Provider Classes serving for object Creation, backend structing\
 Service\
