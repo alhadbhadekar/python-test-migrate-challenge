@@ -1,11 +1,10 @@
 import dill
-#import sys
-#sys.path.append("..")
-from Python_Test_Migration.provider.python_test_migration \
+import sys
+sys.path.append("..")
+from provider.python_test_migration \
     import Credentials, MountPoint, Workload, MigrationTarget, Migration
 
 def dump_classes():
-    """Function to dump classes to a persistence text file"""
     credentials = Credentials()
     mountpoint = MountPoint()
     workload = Workload()
