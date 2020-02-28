@@ -10,6 +10,7 @@ Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install Python
 
 ## Command to Install
 ```bash
+pip package Link: https://pypi.org/project/Python-Test-Migration-Challenge/1.0.2/
 pip install Python-Test-Migration-Challenge
 ```
 
