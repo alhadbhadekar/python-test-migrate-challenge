@@ -1,10 +1,8 @@
 #!/usr/bin/python
-import sys
-sys.path.append("..")
-from service.app_service import *
-from provider.constant import IP_ADDRESS
-from persistence.make_dill import dump_classes
-from persistence.un_dill import load_classes
+from Python_Test_Migration.service.app_service import *
+from Python_Test_Migration.provider.constant import IP_ADDRESS
+from Python_Test_Migration.persistence.make_dill import dump_classes
+from Python_Test_Migration.persistence.un_dill import load_classes
 import os
 
 

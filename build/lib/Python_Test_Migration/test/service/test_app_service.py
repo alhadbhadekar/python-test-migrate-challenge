@@ -1,8 +1,8 @@
 from unittest import TestCase
-import sys
-sys.path.append("..")
-from service.app_service import *
-from provider.constant import IP_ADDRESS
+#import sys
+#sys.path.append("..")
+from Python_Test_Migration.service.app_service import *
+from Python_Test_Migration.provider.constant import IP_ADDRESS
 
 
 class Test(TestCase):
