@@ -119,17 +119,17 @@ run_migration = migration(selected_mountpoint_list,
                           source1, targetVM,
                           ipaddress1, sources, mountpoint_list1)
 
+# Print migration details
 print(run_migration)
 # Saving classes to filesystem
 dump_classes()
+
 ```
 #### Example 1: Service Layers functions available to call Provider Classes
 
 ```python
 #!/usr/bin/python
-import sys
-sys.path.append("..")
-from provider.python_test_migration \
+from Python_Test_Migration.provider.python_test_migration \
     import Credentials, MountPoint, Workload, MigrationTarget, Migration
 
 

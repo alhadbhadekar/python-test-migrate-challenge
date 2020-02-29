@@ -1,7 +1,5 @@
 #!/usr/bin/python
-import sys
-sys.path.append("..")
-from provider.python_test_migration \
+from Python_Test_Migration.provider.python_test_migration \
     import Credentials, MountPoint, Workload, MigrationTarget, Migration
 
 
