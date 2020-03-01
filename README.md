@@ -125,7 +125,7 @@ print(run_migration)
 dump_classes()
 
 ```
-#### Example 1: Service Layers functions available to call Provider Classes
+#### Example 2: Service Layers functions available to call Provider Classes
 
 ```python
 #!/usr/bin/python

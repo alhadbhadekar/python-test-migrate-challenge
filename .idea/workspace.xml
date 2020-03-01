@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa848e86-36dc-4a00-bc7b-46946918000f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/service/app_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/service/app_service.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Test_Migration/tier_one/tier_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Test_Migration/tier_one/tier_one.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
